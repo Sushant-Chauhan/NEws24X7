@@ -12,15 +12,5 @@ Flask: The backend is powered by Flask, a lightweight Python web framework.
 News API: We utilize the News API to fetch the latest news articles for display on the website.
 HTML, CSS, JavaScript, Bootstrap, Jinja2 templating engine : Frontend components are built using these fundamental web technologies.
 
-
 How to Run:
-To run this Flask News Website locally, please ensure you have Python and Flask installed. Clone the repository, install the required dependencies, and run the Flask application using the provided commands.
-
-Step 1: Clone the Repository
-git clone https://github.com/your-username/flask-news-website.git
-
-Step 2: Install Dependencies
-pip install -r requirements.txt
-
-Step 3: Run the Flask Application
-python app.py
+To run this Flask News Website locally, please ensure you have Python and Flask installed. Clone the repository, install the required dependencies, and run the Flask application using - 'python app.py'
