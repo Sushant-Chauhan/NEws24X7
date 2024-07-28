@@ -1,0 +1,7 @@
+.navbar{
+    background-image: linear-gradient(to right, darkslategray, black);
+}
+
+.navbar-text, .navbar-brand, .nav-link {
+    color: #fff !important;
+}
